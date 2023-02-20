@@ -1,4 +1,4 @@
-package oops;
+package oops.classdemo;
 
 public class StaticDemo
 {
@@ -15,7 +15,9 @@ public class StaticDemo
 
     }
 
-    static {
+    //block
+    static // static block
+    {
         i=6666;
     }
 

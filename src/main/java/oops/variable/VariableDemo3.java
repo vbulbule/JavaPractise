@@ -1,9 +1,9 @@
-package oops;
+package oops.variable;
 
 public class VariableDemo3 {
 
-    static int i =10;
-    int b=40;
+    public static int i =10;
+    public int b=40;
     public static void main(String[] args) {
         System.out.println(i);
         i= 20;

@@ -1,4 +1,4 @@
-package oops;
+package oops.classdemo;
 
 public class Orange {
 

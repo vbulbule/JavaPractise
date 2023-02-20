@@ -1,4 +1,4 @@
-package oops;
+package oops.variable;
 
 public class VariableDemo2 {
 
