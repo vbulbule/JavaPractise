@@ -7,7 +7,7 @@ public class NonStaticBlockDemo1 {
         NonStaticBlockDemo1 d1 = new NonStaticBlockDemo1();
         System.out.println(d1.i);
         System.out.println(d1.j);
-        System.out.println("-----------------------------");
+       /* System.out.println("-----------------------------");
         NonStaticBlockDemo1 d2 = new NonStaticBlockDemo1();
         System.out.println(d2.i);
         System.out.println(d2.j);
@@ -19,7 +19,7 @@ public class NonStaticBlockDemo1 {
         System.out.println(d1.i);
         System.out.println(d1.j);
         System.out.println(d2.i);
-        System.out.println(d2.j);
+        System.out.println(d2.j);*/
     }
     // non staic block - 1
     {
