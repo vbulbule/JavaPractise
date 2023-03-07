@@ -1,11 +1,11 @@
 package oops.inheritance;
 
-public class Dog {
+public class Dog extends Mamal{
 
     //default construcot
 
-    Dog(){
+    String bark;
+    String loving;
 
-    }
 
 }
